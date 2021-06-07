@@ -1,4 +1,7 @@
 ### Hi, I'm Rob <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+---
+
+Bio
 
 ---
 
