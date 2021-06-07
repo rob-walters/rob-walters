@@ -3,6 +3,8 @@
 
 Bio
 
+Rob is highly creative and driven individual, making a transition into the technology sector. Rob Is Following a long held passion for tech whilst developing and growing the skills required to build my career.
+
 ---
 
 Skills & Expertise
