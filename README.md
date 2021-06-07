@@ -2,10 +2,6 @@
 
 ---
 
-
-
----
-
 Skills & Expertise
 
 Programming Languages: Python (Pandas / NumPy), SQL, JavaScript, HTML, CSS
@@ -13,3 +9,5 @@ Programming Languages: Python (Pandas / NumPy), SQL, JavaScript, HTML, CSS
 Cloud: AWS knowledge in the application of core AWS services in the area of compute, storage and networking, including EC2, S3, IAM, VPC, Lamda, Cloud Formation, RDS and Route 53
 
 Frameworks & Other: WordPress, Adobe Photoshop & InDesign, Git
+
+---
